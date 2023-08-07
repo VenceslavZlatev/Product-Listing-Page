@@ -1,0 +1,542 @@
+{
+  "products": [
+    {
+      "category": "watch",
+      "name": "Classic Wristwatch",
+      "description": "A stylish wristwatch with a leather strap.",
+      "image": "images/watch1.jpg",
+      "price": 90.99,
+      "rating": 4.5,
+      "color": "white"
+    },
+    {
+      "category": "shoes",
+      "name": "Sneakers",
+      "description": "Comfortable sneakers for everyday wear.",
+      "price": 89.99,
+      "rating": 4.2,
+      "color": "white"
+    },
+    {
+      "category": "watch",
+      "name": "Luxury Chronograph",
+      "description": "An elegant chronograph watch with a stainless steel band.",
+      "image": "images/watch2.jpg",
+      "price": 250.00,
+      "rating": 4.9,
+      "color": "silver"
+    },
+    {
+      "category": "shoes",
+      "name": "Running Shoes",
+      "description": "High-performance running shoes for athletes.",
+      "price": 129.99,
+      "rating": 4.8,
+      "color": "black"
+    },
+    {
+      "category": "electronics",
+      "name": "Smartphone",
+      "description": "A powerful smartphone with advanced features.",
+      "price": 599.00,
+      "rating": 4.7,
+      "color": "black"
+    },
+    {
+      "category": "clothing",
+      "name": "Denim Jeans",
+      "description": "Classic denim jeans for a casual look.",
+      "price": 69.99,
+      "rating": 4.3,
+      "color": "blue"
+    },
+    {
+      "category": "electronics",
+      "name": "Wireless Earbuds",
+      "description": "High-quality wireless earbuds for music lovers.",
+      "price": 129.00,
+      "rating": 4.6,
+      "color": "white"
+    },
+    {
+      "category": "clothing",
+      "name": "T-Shirt",
+      "description": "Comfortable and stylish t-shirt for daily wear.",
+      "price": 25.00,
+      "rating": 4.0,
+      "color": "gray"
+    },
+    {
+      "category": "electronics",
+      "name": "Smart Watch",
+      "description": "A feature-rich smartwatch to track your activities.",
+      "price": 179.99,
+      "rating": 4.4,
+      "color": "black"
+    },
+    {
+      "category": "clothing",
+      "name": "Formal Dress",
+      "description": "A sophisticated formal dress for special occasions.",
+      "price": 189.00,
+      "rating": 4.9,
+      "color": "navy blue"
+    },
+    {
+      "category": "accessories",
+      "name": "Leather Wallet",
+      "description": "A classic leather wallet with multiple card slots.",
+      "price": 49.99,
+      "rating": 4.5,
+      "color": "brown"
+    },
+    {
+      "category": "accessories",
+      "name": "Sunglasses",
+      "description": "Stylish sunglasses to protect your eyes from the sun.",
+      "price": 79.00,
+      "rating": 4.3,
+      "color": "black"
+    },
+    {
+      "category": "watch",
+      "name": "Diver's Watch",
+      "description": "A durable diver's watch with water resistance.",
+      "price": 149.99,
+      "rating": 4.7,
+      "color": "blue"
+    },
+    {
+      "category": "shoes",
+      "name": "Loafers",
+      "description": "Elegant loafers for a sophisticated look.",
+      "price": 109.00,
+      "rating": 4.6,
+      "color": "brown"
+    },
+    {
+      "category": "electronics",
+      "name": "Laptop",
+      "description": "A powerful laptop for work and entertainment.",
+      "price": 999.00,
+      "rating": 4.8,
+      "color": "silver"
+    },
+    {
+      "category": "clothing",
+      "name": "Hoodie",
+      "description": "Warm and comfortable hoodie for cooler days.",
+      "price": 49.99,
+      "rating": 4.2,
+      "color": "black"
+    },
+    {
+      "category": "accessories",
+      "name": "Necktie",
+      "description": "A stylish necktie to complete your formal attire.",
+      "price": 29.99,
+      "rating": 4.1,
+      "color": "red"
+    },
+    {
+      "category": "watch",
+      "name": "Rose Gold Watch",
+      "description": "An elegant rose gold watch with a mesh band.",
+      "price": 199.00,
+      "rating": 4.6,
+      "color": "rose gold"
+    },
+    {
+      "category": "shoes",
+      "name": "High Heels",
+      "description": "Stylish high heels for a chic look.",
+      "price": 79.99,
+      "rating": 4.4,
+      "color": "black"
+    },
+    {
+      "category": "electronics",
+      "name": "Tablet",
+      "description": "A versatile tablet for work and entertainment on the go.",
+      "price": 349.00,
+      "rating": 4.5,
+      "color": "silver"
+    },
+    {
+      "category": "clothing",
+      "name": "Polo Shirt",
+      "description": "Classic polo shirt for a smart casual outfit.",
+      "price": 39.99,
+      "rating": 4.3,
+      "color": "green"
+    },
+    {
+      "category": "accessories",
+      "name": "Leather Backpack",
+      "description": "A spacious leather backpack for your daily essentials.",
+      "price": 89.00,
+      "rating": 4.7,
+      "color": "black"
+    },
+    {
+      "category": "watch",
+      "name": "Sports Watch",
+      "description": "A durable sports watch with multiple features.",
+      "price": 79.99,
+      "rating": 4.2,
+      "color": "black"
+    },
+    {
+      "category": "shoes",
+      "name": "Sandals",
+      "description": "Comfortable sandals for casual summer days.",
+      "price": 39.99,
+      "rating": 4.0,
+      "color": "brown"
+    },
+    {
+      "category": "electronics",
+      "name": "Bluetooth Speaker",
+      "description": "A portable Bluetooth speaker for music enthusiasts.",
+      "price": 59.99,
+      "rating": 4.4,
+      "color": "red"
+    },
+    {
+      "category": "clothing",
+      "name": "Chinos",
+      "description": "Stylish chinos for a versatile and polished look.",
+      "price": 59.99,
+      "rating": 4.5,
+      "color": "khaki"
+    },
+    {
+      "category": "accessories",
+      "name": "Beanie Hat",
+      "description": "A cozy beanie hat to keep you warm in winter.",
+      "price": 19.99,
+      "rating": 4.1,
+      "color": "gray"
+    },
+    {
+      "category": "watch",
+      "name": "Digital Watch",
+      "description": "A modern digital watch with various functionalities.",
+      "price": 69.99,
+      "rating": 4.3,
+      "color": "black"
+    },
+    {
+      "category": "shoes",
+      "name": "Boots",
+      "description": "Stylish boots for a fashionable winter look.",
+      "price": 129.00,
+      "rating": 4.7,
+      "color": "brown"
+    },
+    {
+      "category": "electronics",
+      "name": "Camera",
+      "description": "A high-quality camera for capturing special moments.",
+      "price": 799.00,
+      "rating": 4.9,
+      "color": "black"
+    },
+    {
+      "category": "clothing",
+      "name": "Sweater",
+      "description": "Cozy sweater for a comfortable and warm outfit.",
+      "price": 45.99,
+      "rating": 4.2,
+      "color": "blue"
+    },
+    {
+      "category": "accessories",
+      "name": "Scarf",
+      "description": "A stylish scarf to accessorize your winter attire.",
+      "price": 29.99,
+      "rating": 4.4,
+      "color": "red"
+    },
+    {
+      "category": "watch",
+      "name": "Vintage Watch",
+      "description": "A classic vintage watch with a leather strap.",
+      "price": 149.00,
+      "rating": 4.6,
+      "color": "brown"
+    },
+    {
+      "category": "shoes",
+      "name": "Slip-on Shoes",
+      "description": "Easy-to-wear slip-on shoes for casual occasions.",
+      "price": 49.99,
+      "rating": 4.3,
+      "color": "black"
+    },
+    {
+      "category": "electronics",
+      "name": "Headphones",
+      "description": "High-fidelity headphones for an immersive audio experience.",
+      "price": 159.00,
+      "rating": 4.8,
+      "color": "black"
+    },
+    {
+      "category": "clothing",
+      "name": "Blouse",
+      "description": "Elegant blouse for a sophisticated and feminine look.",
+      "price": 39.99,
+      "rating": 4.5,
+      "color": "white"
+    },
+    {
+      "category": "accessories",
+      "name": "Gloves",
+      "description": "Warm gloves to keep your hands cozy in winter.",
+      "price": 19.99,
+      "rating": 4.2,
+      "color": "black"
+    },
+    {
+      "category": "watch",
+      "name": "Diamond-Studded Watch",
+      "description": "A luxurious watch with diamond accents.",
+      "price": 999.00,
+      "rating": 4.9,
+      "color": "rose gold"
+    },
+    {
+      "category": "shoes",
+      "name": "Oxford Shoes",
+      "description": "Classic Oxford shoes for a polished and formal look.",
+      "price": 119.99,
+      "rating": 4.6,
+      "color": "black"
+    },
+    {
+      "category": "electronics",
+      "name": "Gaming Console",
+      "description": "A gaming console for the ultimate gaming experience.",
+      "price": 349.00,
+      "rating": 4.7,
+      "color": "black"
+    },
+    {
+      "category": "clothing",
+      "name": "Jacket",
+      "description": "Stylish jacket for a fashionable and edgy outfit.",
+      "price": 79.99,
+      "rating": 4.4,
+      "color": "brown"
+    },
+    {
+      "category": "accessories",
+      "name": "Watch Box",
+      "description": "A sleek box to store and protect your watch collection.",
+      "price": 39.00,
+      "rating": 4.2,
+      "color": "black"
+    },
+    {
+      "category": "watch",
+      "name": "Gold-Plated Watch",
+      "description": "A luxurious gold-plated watch with a metal strap.",
+      "price": 299.00,
+      "rating": 4.8,
+      "color": "gold"
+    },
+    {
+      "category": "shoes",
+      "name": "Boat Shoes",
+      "description": "Classic boat shoes for a nautical and casual look.",
+      "price": 69.99,
+      "rating": 4.5,
+      "color": "blue"
+    },
+    {
+      "category": "electronics",
+      "name": "Smart Speaker",
+      "description": "A voice-controlled smart speaker for your smart home.",
+      "price": 129.99,
+      "rating": 4.3,
+      "color": "white"
+    },
+    {
+      "category": "clothing",
+      "name": "Maxi Dress",
+      "description": "A flowy and elegant maxi dress for special occasions.",
+      "price": 89.99,
+      "rating": 4.7,
+      "color": "purple"
+    },
+    {
+      "category": "accessories",
+      "name": "Cufflinks",
+      "description": "Elegant cufflinks to complement your formal attire.",
+      "price": 29.99,
+      "rating": 4.4,
+      "color": "silver"
+    },
+    {
+      "category": "watch",
+      "name": "Leather Strap Watch",
+      "description": "A classic watch with a genuine leather strap.",
+      "price": 129.00,
+      "rating": 4.6,
+      "color": "brown"
+    },
+    {
+      "category": "shoes",
+      "name": "Wedge Sandals",
+      "description": "Stylish wedge sandals for a trendy summer look.",
+      "price": 59.99,
+      "rating": 4.2,
+      "color": "black"
+    },
+    {
+      "category": "electronics",
+      "name": "Fitness Tracker",
+      "description": "A smart fitness tracker to monitor your health.",
+      "price": 79.00,
+      "rating": 4.5,
+      "color": "blue"
+    },
+    {
+      "category": "clothing",
+      "name": "Sweatshirt",
+      "description": "Casual sweatshirt for a relaxed and cozy outfit.",
+      "price": 35.99,
+      "rating": 4.3,
+      "color": "gray"
+    },
+    {
+      "category": "accessories",
+      "name": "Belt",
+      "description": "A classic belt to complete your outfit.",
+      "price": 25.00,
+      "rating": 4.0,
+      "color": "black"
+    },
+    {
+      "category": "watch",
+      "name": "Steel Bracelet Watch",
+      "description": "A durable watch with a stainless steel bracelet.",
+      "price": 189.99,
+      "rating": 4.6,
+      "color": "silver"
+    },
+    {
+      "category": "shoes",
+      "name": "Flip Flops",
+      "description": "Casual flip flops for comfortable summer wear.",
+      "price": 19.99,
+      "rating": 4.0,
+      "color": "blue"
+    },
+    {
+      "category": "electronics",
+      "name": "Wireless Headphones",
+      "description": "Convenient wireless headphones for music on the go.",
+      "price": 89.00,
+      "rating": 4.4,
+      "color": "white"
+    },
+    {
+      "category": "clothing",
+      "name": "Skirt",
+      "description": "A versatile skirt for a chic and feminine look.",
+      "price": 49.99,
+      "rating": 4.1,
+      "color": "black"
+    },
+    {
+      "category": "accessories",
+      "name": "Watch Stand",
+      "description": "A stylish stand to display and organize your watches.",
+      "price": 29.00,
+      "rating": 4.3,
+      "color": "black"
+    },
+    {
+      "category": "watch",
+      "name": "Digital Sports Watch",
+      "description": "A sporty digital watch with various sports modes.",
+      "price": 59.99,
+      "rating": 4.2,
+      "color": "black"
+    },
+    {
+      "category": "shoes",
+      "name": "Espadrilles",
+      "description": "Trendy espadrilles for a casual and summery look.",
+      "price": 39.99,
+      "rating": 4.0,
+      "color": "beige"
+    },
+    {
+      "category": "electronics",
+      "name": "Smart Thermostat",
+      "description": "An intelligent thermostat to control your home's climate.",
+      "price": 149.00,
+      "rating": 4.5,
+      "color": "white"
+    },
+    {
+      "category": "clothing",
+      "name": "Trench Coat",
+      "description": "A classic trench coat for a sophisticated and timeless style.",
+      "price": 129.00,
+      "rating": 4.7,
+      "color": "beige"
+    },
+    {
+      "category": "accessories",
+      "name": "Hoop Earrings",
+      "description": "Stylish hoop earrings to elevate your look.",
+      "price": 49.99,
+      "rating": 4.3,
+      "color": "gold"
+    },
+    {
+      "category": "watch",
+      "name": "Stainless Steel Watch",
+      "description": "A sleek watch with a durable stainless steel case.",
+      "price": 189.00,
+      "rating": 4.8,
+      "color": "silver"
+    },
+    {
+      "category": "shoes",
+      "name": "Hiking Boots",
+      "description": "Sturdy hiking boots for outdoor adventures.",
+      "price": 89.99,
+      "rating": 4.5,
+      "color": "brown"
+    },
+    {
+      "category": "electronics",
+      "name": "Smart Doorbell",
+      "description": "A smart doorbell with video and two-way audio.",
+      "price": 129.99,
+      "rating": 4.4,
+      "color": "silver"
+    },
+    {
+      "category": "clothing",
+      "name": "Pencil Skirt",
+      "description": "A classic pencil skirt for a polished and professional look.",
+      "price": 59.99,
+      "rating": 4.2,
+      "color": "black"
+    },
+    {
+      "category": "accessories",
+      "name": "Bracelet",
+      "description": "A stylish bracelet to add a touch of elegance to your outfit.",
+      "price": 35.00,
+      "rating": 4.0,
+      "color": "silver"
+    }
+  ]
+}

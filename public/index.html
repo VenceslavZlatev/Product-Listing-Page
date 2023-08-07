@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Product List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <img src="images/alogo-4.svg">
+        </div>
+        <button class="category-filter-btn" data-category="watch">Watches</button>
+        <button class="category-filter-btn" data-category="shoes">Shoes</button>
+        <button class="category-filter-btn" data-category="electronics">Electronics</button>
+        <button class="category-filter-btn" data-category="clothing">Clothing</button>
+    </header>
+
+
+    <div class="container">
+        <div id="category-info">
+            <div>
+                <h1 id="category-header">Watch</h1>
+                <span id="product-counter">0 products</span>
+            </div>
+            <div>
+                <label for="sort-by">Sort By:</label>
+                <select id="sort-by">
+                    <option value="name-asc">Name (A-Z)</option>
+                    <option value="name-desc">Name (Z-A)</option>
+                    <option value="price-asc">Price (Low to High)</option>
+                    <option value="price-desc">Price (High to Low)</option>
+                </select>
+            </div>
+
+        </div>
+
+        <div id="filters">
+            <label for="price-filter">Filter by Price:</label>
+            <span id="price-display">$200</span>
+            <input type="range" id="price-filter" min="0" max="200" step="1" value="200">
+            <label for="color-filter">Filter by Color:</label>
+            <select id="color-filter">
+                <option value="">All</option>
+                <option value="white">White</option>
+                <option value="blue">Blue</option>
+                <option value="brown">Brown</option>
+            </select>
+        </div>
+        <div id="product-list">
+             <!-- Product cards will be added dynamically -->
+        </div>
+    </div>
+
+    <div id="load-more-container">
+        <button id="load-more-btn">Load More</button>
+    </div>
+
+    <footer>
+        <div>
+            <a href="#">Terms &amp; Conditions</a> |
+            <a href="#">Privacy Policy</a> |
+            <a href="#">Contact Us</a>
+        </div>
+        <p>&copy; 2023 Ecommerce website. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
