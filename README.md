@@ -23,3 +23,6 @@ The goal was to create e-commerce-like website where users can filter, sort, and
 * Dynamic Updates: Managing the dynamic updates of the product list based on user interactions.
 * Filters, Sort Options, and Load More Button: This was to ensure that filtering or sorting products wouldn't interfere with the load more functionality. Ensuring that the load more button functioned correctly and displayed the next set of products while maintaining the current filter and sort settings.
 
+# How to Start:
+
+* Simply write in the terminal - node server.js
