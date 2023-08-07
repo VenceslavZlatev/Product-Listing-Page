@@ -5,10 +5,10 @@ The goal was to create e-commerce-like website where users can filter, sort, and
 
 # Technologies Used:
 
-HTML
-CSS
-JavaScript
-Express - for server
+* HTML
+* CSS
+* JavaScript
+* Express - for server
 
 # Features Implemented:
 
